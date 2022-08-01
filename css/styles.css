@@ -363,12 +363,8 @@ body {
 /*--------------- FOOTER ---------------*/
 .footer {
     background-color: var(--background-color-footer);
-}
-
-.footer .container {
     padding-top: 60px;
-    padding-bottom: 60px;
-}
+    padding-bottom: 60px;}
 
 .footer-logo-second {
     color: var(--font-color-contrast);
