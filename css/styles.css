@@ -16,7 +16,6 @@
 body {
     color: var(--font-color-main);
     font-family: 'Roboto', sans-serif;
-    width: 1600px;
     margin: 0 auto;
 }
 
@@ -173,6 +172,8 @@ body {
 .hero {
     background-color: var(--background-color-footer);
     text-align: center;
+    padding-top: 200px;
+    padding-bottom: 200px;
 }
 
 .hero-title {
