@@ -216,6 +216,10 @@ body {
 .qualities.section {
     padding-bottom: 0px;
 }
+/* for saving commit */
+.qualities-item {
+    width: 270px;
+}
 
 .qualities-list {
     display: flex;
